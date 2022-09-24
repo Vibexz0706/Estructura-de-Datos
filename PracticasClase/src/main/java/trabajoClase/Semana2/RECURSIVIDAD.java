@@ -14,7 +14,11 @@ public class RECURSIVIDAD {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //COMO EL METODO ES ESTATICO, NO SE PUEDE INSTANCIAR POR ESO SOLO SE LLAMA
+        int arr[] = {12, 34, 64, 2, 3};
+        
+        System.out.println(RECURSION.factorial(3));
+        System.out.println(RECURSION.encontrarMax(arr, 1, arr[0]));
     }
-    
+
 }
