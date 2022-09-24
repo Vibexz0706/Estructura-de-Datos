@@ -17,8 +17,8 @@ public class RECURSIVIDAD {
         //COMO EL METODO ES ESTATICO, NO SE PUEDE INSTANCIAR POR ESO SOLO SE LLAMA
         int arr[] = {12, 34, 64, 2, 3};
         
-        System.out.println(RECURSION.factorial(3));
-        System.out.println(RECURSION.encontrarMax(arr, 1, arr[0]));
+        System.out.println(Main.factorial(3));
+        System.out.println(Main.encontrarMax(arr, 1, arr[0]));
     }
 
 }
