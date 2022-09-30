@@ -9,22 +9,11 @@ package TAREAS.tarea1;
  * @author VIBEXZ
  */
 public class EJE2 {
-    /*
-     public static String anagrama(String anagrama,int tamaño)  {
-         if(tamaño==0){
-             return anagrama.charAt(tamaño)+"";
-         }else{
-             return anagrama.charAt (tamaño) + (anagrama(anagrama,tamaño -1));
-             
-       
-          }
-     }
-    
-    */
-    
     
     /*
-    FUNCIONA, SOLO HAY QUE PASARLE EL N QUE ES EL INDEX DE LA POSCIon que imprime
+    
+    // EL EJERCICO FUNCIONA, SOLO NO LOGRAMOS HACER EL BUCLE RECURSIVO PARA QUE DESPLIEGUE LETRA POR LETRA
+    //PERO SI LE PASAS A palabra.charAT(n) esa n es el indice, el te imprime la letra de la palabra que corresponde a ese indice
     
     public static char eje2 (String palabra){
         
