@@ -22,6 +22,10 @@ public class EJE2 {
     
     */
     
+    
+    /*
+    FUNCIONA, SOLO HAY QUE PASARLE EL N QUE ES EL INDEX DE LA POSCIon que imprime
+    
     public static char eje2 (String palabra){
         
         int n = 0;
@@ -38,7 +42,7 @@ public class EJE2 {
         
     }
     
-    
+    */
     
     
     
