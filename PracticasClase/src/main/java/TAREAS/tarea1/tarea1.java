@@ -24,6 +24,9 @@ public class tarea1 {
         //System.out.println(EJER1.invertir(12336));
         //--------------------------------------------------------------EJERCICIO 2----------------------------------------
         /*
+        
+        Solo falta hacerle el bucle 
+        
         String palabra = "hola";
         System.out.println(EJE2.eje2(palabra));
         */
