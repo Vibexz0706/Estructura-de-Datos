@@ -25,14 +25,14 @@ public class tarea1 {
         //--------------------------------------------------------------EJERCICIO 2----------------------------------------
         /*
         
-        Solo falta hacerle el bucle 
+        //Solo falta hacerle el bucle 
         
         String palabra = "hola";
         System.out.println(EJE2.eje2(palabra));
         */
         
         
-        //System.out.println(anagrama(palabra,palabra.length()-1));
+       
          
         //--------------------------------------------------------------EJERCICIO 3----------------------------------------
         /*
