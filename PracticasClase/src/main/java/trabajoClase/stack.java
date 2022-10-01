@@ -7,7 +7,24 @@ package trabajoClase;
 /**
  *
  * @author VIBEXZ
+ * @param <T>
  */
-public class stack {
+public class stack<T>{
+    /*
+    ATRIBUTOS DE LA PILA
+    */
+    private node<T> top;
+    
+    
+    // T value es como pasar int a o string jose. solo que estamos usando java genericts.
+    
+    public void push(T value){
+        
+        node <T> newNode = new node<T> (value);
+        
+    
+    
+    }
+    
     
 }
