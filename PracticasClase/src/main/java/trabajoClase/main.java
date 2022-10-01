@@ -28,7 +28,8 @@ public class main {
         */
         
         
-        //---------------------------------------------------SEMANA3-PILAS----------------------------------------------------------
+        //--------------------------------------------------------SEMANA3-PILAS----------------------------------------------------------
+        
         
         // java genericts <T>, definimos los atributos sin el tipo de dato. cuando instanciamos el node le definos el tipo de dato
         // ejemplo private node<T> color;  color puede ser int, string lo que sea gracias al java genericts.
