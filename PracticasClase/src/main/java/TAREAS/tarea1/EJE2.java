@@ -9,6 +9,8 @@ package TAREAS.tarea1;
  * @author VIBEXZ
  */
 public class EJE2 {
+
+   
     
     /*
     
@@ -32,6 +34,8 @@ public class EJE2 {
     }
     
     */
+
+    
     
     
     
