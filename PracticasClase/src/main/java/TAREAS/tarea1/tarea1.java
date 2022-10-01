@@ -40,12 +40,12 @@ public class tarea1 {
          int tamaño = new java.util.Scanner(System.in).nextInt();
          int vector []= new int [tamaño];
          
-         System.out.println(Arrays.toString(EJE2.devolver(vector, tamaño)));
-         System.out.println(EJE2.valorMay(vector, tamaño, tamaño));
+         System.out.println(Arrays.toString(EJER3.devolver(vector, tamaño)));
+         System.out.println(EJER3.valorMay(vector, tamaño, tamaño));
          */
         //---------------------------------------------------------------EJERCICIO 4-----------------------------------------
-        /*
         
+        /*
         int n = 10;
         System.out.println(recurSum(n));
         
