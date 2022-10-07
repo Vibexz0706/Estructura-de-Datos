@@ -14,7 +14,12 @@ public class prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+
+        //-------------------------------------------------------EJERCICIO 1 SERIE DE TALOR-----------------------------------------------------------
+        /*
+          System.out.print(SerieTaylor.coseno(15, 4) + "\n" );
+       
+         */
     }
-    
+
 }
