@@ -22,7 +22,9 @@ public class main {
           System.out.print(SerieTaylor.coseno(15, 4) + "\n" );
        
          */
-        //----------------------------------------------------------------EJERCICIO DE PILAS--------------------------------------------------
+        //----------------------------------------------------------------EJERCICIO 2--------------------------------------------------
+        
+        /*
         Scanner Tecla = new Scanner(System.in);
         pila pila1 = new pila();
 
@@ -43,6 +45,18 @@ public class main {
        
        System.out.println(" \n CANTIDAD DE TALLAS REPETIDAS : \n");
        pila1.tallasRep();
+       */
+       
+       //---------------------------------------------------------------------------EJERCICIO3--------------------------------------------------
+       
+       cola cola1 = new cola();
+       cola1.ingresoPersona();
+       cola1.ingresoPersona();
+       cola1.ingresoPersona();
+       cola1.Mostrar();
+       
+     
+       
        
     }
 
