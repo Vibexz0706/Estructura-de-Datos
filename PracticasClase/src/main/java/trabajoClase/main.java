@@ -47,14 +47,19 @@ public class main {
         System.out.println(Pila2.encuentra(2));
          */
         //-----------------------------------------------SEMANA 4- COLAS------------------------------------------------------
-        QUEUE<Integer> Cola = new QUEUE<Integer>();
+        
         /*
+        
+        QUEUE<Integer> Cola = new QUEUE<Integer>();
        Cola.enqueue(1);
        Cola.enqueue(2);
        Cola.enqueue(4);
        System.out.println(Cola.dequeque()); // ACA IMPRIME UN NODO COMPLETO, POR ESO EL DE ABAJO IMPRIME 2 PORQUE ESTAMOS OBTENIENDO EL VALOR DEL NODO
        System.out.println(Cola.dequeque().getValue());*/
 
+        /*
+         
+         
         // aca usamos un for para llenar la cola  con 100 elementos
         for (int i = 0; i < 101; i++) {
 
@@ -68,6 +73,8 @@ public class main {
          * ACA REALIZAMOS, SACAMOS UN ELEMENTO DE LA COLA 1, Y EMPEZAMOS UNA
          * NUEVA COLA CON EL ELMENTO QUE SACAMOS.
          */
+        
+        /*
         QUEUE<Integer> nuevaCola = new QUEUE<Integer>();
         nuevaCola.enqueue(temp);
 
@@ -75,7 +82,9 @@ public class main {
 
             nuevaCola.enqueue(i);
 
-        }
+        } */
+        
+        
 
     }
 
