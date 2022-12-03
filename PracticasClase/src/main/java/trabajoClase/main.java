@@ -82,6 +82,10 @@ public class main {
 
         } */
         //-----------------------------------------------------------------------------LISTADOBLECIRCULAR----------------------------------------------------------------
+        /*
+        
+        
+        
         ListaDobleCircula c = new ListaDobleCircula();
         c.insertar(new Nombres(2, "as"));
         c.insertar(new Nombres(1, "as"));
@@ -92,6 +96,20 @@ public class main {
         //c.modificar(new Nombres(1, "KO"));
         //c.eliminar(35);
         //c.mostrar();
+   
+         */
+        
+        //-----------------------------------------------------------------------------LISTADOBLECIRCULAR----------------------------------------------------------------
+        
+        arbol l = new arbol();
+        l.inserta(1);
+        l.inserta(4);
+        l.inOrden();
+        
+        
+        
+        
+        
     }
 
 }
